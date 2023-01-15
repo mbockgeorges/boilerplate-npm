@@ -1,5 +1,8 @@
 {
-	"name": "fcc-learn-npm-package-json",
+	"author":"mbock m. georges christian"
+
+
+
 	"dependencies": {
 		"express": "^4.14.0"
 	},
